@@ -18,5 +18,5 @@ CodeBook.md file contains a description of transformations of the data and varia
 
 * Download the data source and put into a folder on your working directory. You'll have a UCI HAR Dataset folder. Get the working directory you can use the function getwd(), set your working directory using setwd() function in RStudio.
 * Put run_analysis.R in the parent folder of UCI HAR Dataset.
-* Run source("run_analysis.R").
+* Run source("run_analysis.R") and run_analysis() in Console RStudio.
 * Open t_data.txt, which was recorded in the working directory.
