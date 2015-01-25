@@ -16,7 +16,7 @@ The tidy data set contains 180 observations of 81 variables:
 * Activity_Label: an activity label (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 * a 79 features vector with time and frequency domain signal variables (numeric values [-1;1]):
 
-**Time Domain:**
+**Time Domain:**  
 tBodyAcc_mean_X  
 tBodyAcc_mean_Y  
 tBodyAcc_mean_Z  
@@ -58,7 +58,7 @@ tBodyGyroMag_std_
 tBodyGyroJerkMag_mean_  
 tBodyGyroJerkMag_std_
 
-**Frequency Domain:**
+**Frequency Domain:**  
 fBodyAcc_mean_X  
 fBodyAcc_mean_Y  
 fBodyAcc_mean_Z  
@@ -102,6 +102,7 @@ fBodyBodyGyroJerkMag_meanFreq_
 The set of variables that were estimated from signals are: 
 * mean(): Mean value
 * std(): Standard deviation
+* meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 ### Summary
 
